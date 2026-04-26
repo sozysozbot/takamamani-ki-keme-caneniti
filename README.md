@@ -1,3 +1,19 @@
+## template
+
+### 3分割テンプレート
+
+![](./div-by-3.png)
+
+![](./div-by-3.svg)
+
+
+### 4分割テンプレート
+
+![](./div-by-4.png)
+
+![](./div-by-4.svg)
+
+
 ## content
 
 ### page 3
