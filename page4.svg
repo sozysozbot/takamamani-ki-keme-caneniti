@@ -8,16 +8,16 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
-   sodipodi:docname="page3.svg"
-   inkscape:export-filename="page3.png"
+   sodipodi:docname="page4.svg"
+   inkscape:export-filename="page4.png"
    inkscape:export-xdpi="254"
    inkscape:export-ydpi="254"
+   xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
      id="namedview1"
      pagecolor="#ffffff"
      bordercolor="#000000"
@@ -27,147 +27,103 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="173.94827"
-     inkscape:cy="94.045202"
+     inkscape:zoom="1"
+     inkscape:cx="457.5"
+     inkscape:cy="218.5"
      inkscape:window-width="1904"
      inkscape:window-height="993"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1">
-    <sodipodi:guide
+     inkscape:current-layer="layer1"><sodipodi:guide
        position="5.1999999,98.800001"
        orientation="117.92127,0"
        id="guide27"
-       inkscape:locked="false" />
-    <sodipodi:guide
+       inkscape:locked="false" /><sodipodi:guide
        position="5.1999999,67.599999"
        orientation="0,117.92127"
        id="guide28"
-       inkscape:locked="false" />
-    <sodipodi:guide
+       inkscape:locked="false" /><sodipodi:guide
        position="36.400002,67.599999"
        orientation="-117.92127,0"
        id="guide29"
-       inkscape:locked="false" />
-    <sodipodi:guide
+       inkscape:locked="false" /><sodipodi:guide
        position="36.400002,98.800001"
        orientation="0,-117.92127"
        id="guide30"
-       inkscape:locked="false" />
-    <sodipodi:guide
+       inkscape:locked="false" /><sodipodi:guide
        position="5.1999999,36.400002"
        orientation="117.92128,0"
        id="guide31"
-       inkscape:locked="false" />
-    <sodipodi:guide
+       inkscape:locked="false" /><sodipodi:guide
        position="5.1999999,5.199997"
        orientation="0,117.92127"
        id="guide32"
-       inkscape:locked="false" />
-    <sodipodi:guide
+       inkscape:locked="false" /><sodipodi:guide
        position="36.400002,5.199997"
        orientation="-117.92128,0"
        id="guide33"
-       inkscape:locked="false" />
-    <sodipodi:guide
+       inkscape:locked="false" /><sodipodi:guide
        position="36.400002,36.400002"
        orientation="0,-117.92127"
        id="guide34"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="67.599999,98.800001"
-       orientation="117.92127,0"
-       id="guide35"
-       inkscape:locked="false" />
-    <sodipodi:guide
+       inkscape:locked="false" /><sodipodi:guide
        position="67.599999,67.599999"
        orientation="0,117.92128"
        id="guide36"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="98.800004,67.599999"
-       orientation="-117.92127,0"
-       id="guide37"
-       inkscape:locked="false" />
-    <sodipodi:guide
+       inkscape:locked="false" /><sodipodi:guide
        position="98.800004,98.800001"
        orientation="0,-117.92128"
        id="guide38"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="130,98.800001"
-       orientation="117.92127,0"
-       id="guide39"
-       inkscape:locked="false" />
-    <sodipodi:guide
+       inkscape:locked="false" /><sodipodi:guide
        position="130,67.599999"
        orientation="0,117.92125"
        id="guide40"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="161.2,67.599999"
-       orientation="-117.92127,0"
-       id="guide41"
-       inkscape:locked="false" />
-    <sodipodi:guide
+       inkscape:locked="false" /><sodipodi:guide
        position="161.2,98.800001"
        orientation="0,-117.92125"
        id="guide42"
-       inkscape:locked="false" />
-    <sodipodi:guide
+       inkscape:locked="false" /><sodipodi:guide
        position="192.4,104"
        orientation="393.07087,0"
        id="guide43"
-       inkscape:locked="false" />
-    <sodipodi:guide
+       inkscape:locked="false" /><sodipodi:guide
        position="192.4,0"
        orientation="0,58.960653"
        id="guide44"
-       inkscape:locked="false" />
-    <sodipodi:guide
+       inkscape:locked="false" /><sodipodi:guide
        position="208,0"
        orientation="-393.07087,0"
        id="guide45"
-       inkscape:locked="false" />
-    <sodipodi:guide
+       inkscape:locked="false" /><sodipodi:guide
        position="208,104"
        orientation="0,-58.960653"
        id="guide46"
-       inkscape:locked="false" />
-    <sodipodi:guide
+       inkscape:locked="false" /><sodipodi:guide
        position="202.80001,104"
        orientation="393.07087,0"
        id="guide54"
-       inkscape:locked="false" />
-    <sodipodi:guide
+       inkscape:locked="false" /><sodipodi:guide
        position="202.80001,0"
        orientation="0,19.653532"
        id="guide55"
-       inkscape:locked="false" />
-    <sodipodi:guide
+       inkscape:locked="false" /><sodipodi:guide
        position="208,0"
        orientation="-393.07087,0"
        id="guide56"
-       inkscape:locked="false" />
-    <sodipodi:guide
+       inkscape:locked="false" /><sodipodi:guide
        position="208,104"
        orientation="0,-19.653532"
        id="guide57"
-       inkscape:locked="false" />
-  </sodipodi:namedview>
-  <defs
-     id="defs1">
-    <pattern
+       inkscape:locked="false" /></sodipodi:namedview><defs
+     id="defs1"><pattern
        inkscape:collect="always"
        xlink:href="#halftones"
        preserveAspectRatio="xMidYMid"
        id="pattern48"
        patternTransform="scale(0.2)"
        x="0"
-       y="0" />
-    <pattern
+       y="0" /><pattern
        patternUnits="userSpaceOnUse"
        width="10"
        height="10"
@@ -178,49 +134,35 @@
        y="0"
        inkscape:label="Halftones"
        inkscape:collect="always"
-       inkscape:isstock="true">
-      <g
+       inkscape:isstock="true"><g
          id="fullPattern"
          style="display:inline"
-         transform="scale(0.1)">
-        <circle
+         transform="scale(0.1)"><circle
            style="fill-opacity:1;stroke:none;paint-order:markers fill stroke;stop-color:#000000"
            id="circle10"
            cx="50"
            cy="50"
-           r="25" />
-        <path
+           r="25" /><path
            id="circle37"
            style="paint-order:markers fill stroke"
-           d="M 25,0 A 25,25 0 0 1 0,25 25,25 0 0 1 -25,0 25,25 0 0 1 0,-25 25,25 0 0 1 25,0 Z" />
-        <path
+           d="M 25,0 A 25,25 0 0 1 0,25 25,25 0 0 1 -25,0 25,25 0 0 1 0,-25 25,25 0 0 1 25,0 Z" /><path
            id="circle39"
            style="paint-order:markers fill stroke"
-           d="M 125,0 A 25,25 0 0 1 100,25 25,25 0 0 1 75,0 25,25 0 0 1 100,-25 25,25 0 0 1 125,0 Z" />
-        <path
+           d="M 125,0 A 25,25 0 0 1 100,25 25,25 0 0 1 75,0 25,25 0 0 1 100,-25 25,25 0 0 1 125,0 Z" /><path
            id="circle43"
            style="paint-order:markers fill stroke"
-           d="M 25,100 A 25,25 0 0 1 0,125 25,25 0 0 1 -25,100 25,25 0 0 1 0,75 25,25 0 0 1 25,100 Z" />
-        <path
+           d="M 25,100 A 25,25 0 0 1 0,125 25,25 0 0 1 -25,100 25,25 0 0 1 0,75 25,25 0 0 1 25,100 Z" /><path
            id="circle45"
            style="paint-order:markers fill stroke"
-           d="m 125,100 a 25,25 0 0 1 -25,25 25,25 0 0 1 -25,-25 25,25 0 0 1 25,-25 25,25 0 0 1 25,25 z" />
-      </g>
-    </pattern>
-    <clipPath
+           d="m 125,100 a 25,25 0 0 1 -25,25 25,25 0 0 1 -25,-25 25,25 0 0 1 25,-25 25,25 0 0 1 25,25 z" /></g></pattern><clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath52">
-      <path
+       id="clipPath52"><path
          id="path52"
          style="stroke-width:0.1;stroke-linecap:square;paint-order:markers fill stroke;stop-color:#000000"
-         d="m -880.82767,-187.29769 h 1640.84 v 73.28155 h -1640.84 z" />
-    </clipPath>
-  </defs>
-  <g
+         d="m -880.82767,-187.29769 h 1640.84 v 73.28155 h -1640.84 z" /></clipPath></defs><g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer 2">
-    <rect
+     inkscape:label="Layer 2"><rect
        style="font-variation-settings:normal;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.13;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect68"
        width="208"
@@ -228,13 +170,20 @@
        x="0"
        y="0"
        ry="0"
-       rx="0" />
-  </g>
-  <g
+       rx="0" /></g><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <text
+     id="layer1"><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.4583px;line-height:1.5;font-family:'Source Han Sans K VF';-inkscape-font-specification:'Source Han Sans K VF';text-decoration-color:#000000;letter-spacing:0px;word-spacing:-3.57187px;white-space:pre;opacity:1;fill:#000000;stroke:#a9a9a9;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round"
+       x="2.17067"
+       y="93.921097"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.4583px;font-family:'Source Han Sans K VF';-inkscape-font-specification:'Source Han Sans K VF';fill:#000000;stroke:none;stroke-width:0.5"
+         x="2.17067"
+         y="93.921097">🌳</tspan></text><text
        xml:space="preserve"
        style="font-weight:bold;font-size:26.4583px;line-height:1.5;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-decoration-color:#000000;letter-spacing:0px;word-spacing:-3.57187px;white-space:pre;opacity:0.5;fill:#808080;stroke:#a9a9a9;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round"
        x="64.778236"
@@ -244,8 +193,7 @@
          id="tspan8"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.4583px;font-family:linzklar_rounded;-inkscape-font-specification:linzklar_rounded;stroke:none;stroke-width:0.5"
          x="64.778236"
-         y="34.028229">わ</tspan></text>
-    <text
+         y="34.028229">ち</tspan></text><text
        xml:space="preserve"
        style="font-weight:bold;font-size:26.4583px;line-height:1.5;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-decoration-color:#000000;letter-spacing:0px;word-spacing:-3.57187px;white-space:pre;opacity:0.5;fill:#808080;stroke:#a9a9a9;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round"
        x="64.786011"
@@ -255,41 +203,27 @@
          id="tspan10"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.4583px;font-family:linzklar_rounded;-inkscape-font-specification:linzklar_rounded;stroke:none;stroke-width:0.5"
          x="64.786011"
-         y="64.942284">さ</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:26.4583px;line-height:1.5;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-decoration-color:#000000;letter-spacing:0px;word-spacing:-3.57187px;white-space:pre;opacity:0.5;fill:#808080;stroke:#a9a9a9;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round"
-       x="64.772232"
-       y="96.421097"
-       id="text11"><tspan
-         sodipodi:role="line"
-         id="tspan11"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.4583px;font-family:linzklar_rounded;-inkscape-font-specification:linzklar_rounded;stroke:none;stroke-width:0.5"
-         x="64.772232"
-         y="96.421097">た</tspan></text>
-    <text
+         y="64.942284">そ</tspan></text><text
        xml:space="preserve"
        style="font-weight:bold;font-size:13.2292px;line-height:1.5;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-decoration-color:#000000;letter-spacing:0px;word-spacing:-3.57187px;white-space:pre;fill:#808080;stroke:#a9a9a9;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round"
-       x="96.60054"
+       x="107.18389"
        y="26.428377"
        id="text12"><tspan
          sodipodi:role="line"
          id="tspan12"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2292px;font-family:linzklar_rounded;-inkscape-font-specification:linzklar_rounded;fill:#000000;stroke:none;stroke-width:0.5"
-         x="96.60054"
-         y="26.428377">wa</tspan></text>
-    <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2292px;font-family:linzklar_rounded;-inkscape-font-specification:linzklar_rounded;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.5"
+         x="107.18389"
+         y="26.428377">ti</tspan></text><text
        xml:space="preserve"
-       style="font-weight:bold;font-size:13.2292px;line-height:1.5;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-decoration-color:#000000;letter-spacing:0px;word-spacing:-3.57187px;white-space:pre;fill:#808080;stroke:#a9a9a9;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round"
-       x="96.60054"
+       style="font-weight:bold;font-size:13.2292px;line-height:1.5;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-align:end;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-3.57187px;text-anchor:end;white-space:pre;fill:#808080;stroke:#a9a9a9;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round"
+       x="106.88072"
        y="57.627419"
        id="text13"><tspan
          sodipodi:role="line"
          id="tspan13"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2292px;font-family:linzklar_rounded;-inkscape-font-specification:linzklar_rounded;fill:#000000;stroke:none;stroke-width:0.5"
-         x="96.60054"
-         y="57.627419">ca</tspan></text>
-    <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2292px;font-family:linzklar_rounded;-inkscape-font-specification:linzklar_rounded;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.5"
+         x="106.88072"
+         y="57.627419">co</tspan></text><text
        xml:space="preserve"
        style="font-weight:bold;font-size:26.4583px;line-height:1.5;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-decoration-color:#000000;letter-spacing:0px;word-spacing:-3.57187px;white-space:pre;opacity:0.5;fill:#808080;stroke:#a9a9a9;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round"
        x="7.5775404"
@@ -299,15 +233,13 @@
          id="tspan15"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.4583px;font-family:linzklar_rounded;-inkscape-font-specification:linzklar_rounded;stroke:none;stroke-width:0.5"
          x="7.5775404"
-         y="34.028229">や</tspan></text>
-    <rect
+         y="34.028229">う</tspan></text><rect
        style="fill:none;stroke:#005242;stroke-width:0.52;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="rect15"
        width="31.2"
        height="31.2"
        x="5.2"
-       y="5.2" />
-    <text
+       y="5.2" /><text
        xml:space="preserve"
        style="font-weight:bold;font-size:26.4583px;line-height:1.5;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-decoration-color:#000000;letter-spacing:0px;word-spacing:-3.57187px;white-space:pre;opacity:0.5;fill:#808080;stroke:#a9a9a9;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round"
        x="7.5853148"
@@ -317,105 +249,51 @@
          id="tspan17"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.4583px;font-family:linzklar_rounded;-inkscape-font-specification:linzklar_rounded;stroke:none;stroke-width:0.5"
          x="7.5853148"
-         y="64.942284">ま</tspan></text>
-    <text
+         y="64.942284">も</tspan></text><text
        xml:space="preserve"
-       style="font-weight:bold;font-size:26.4583px;line-height:1.5;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-decoration-color:#000000;letter-spacing:0px;word-spacing:-3.57187px;white-space:pre;opacity:0.5;fill:#808080;stroke:#a9a9a9;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round"
-       x="7.5715361"
-       y="96.421097"
-       id="text18"><tspan
-         sodipodi:role="line"
-         id="tspan18"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.4583px;font-family:linzklar_rounded;-inkscape-font-specification:linzklar_rounded;stroke:none;stroke-width:0.5"
-         x="7.5715361"
-         y="96.421097">た</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:13.2292px;line-height:1.5;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-decoration-color:#000000;letter-spacing:0px;word-spacing:-3.57187px;white-space:pre;fill:#808080;stroke:#a9a9a9;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round"
-       x="39.400867"
+       style="font-weight:bold;font-size:13.2292px;line-height:1.5;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-align:end;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-3.57187px;text-anchor:end;white-space:pre;fill:#808080;stroke:#a9a9a9;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round"
+       x="49.984219"
        y="26.428377"
        id="text19"><tspan
          sodipodi:role="line"
          id="tspan19"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2292px;font-family:linzklar_rounded;-inkscape-font-specification:linzklar_rounded;fill:#000000;stroke:none;stroke-width:0.5"
-         x="39.400867"
-         y="26.428377">ja</tspan></text>
-    <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2292px;font-family:linzklar_rounded;-inkscape-font-specification:linzklar_rounded;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.5"
+         x="49.984219"
+         y="26.428377">u</tspan></text><text
        xml:space="preserve"
-       style="font-weight:bold;font-size:13.2292px;line-height:1.5;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-decoration-color:#000000;letter-spacing:0px;word-spacing:-3.57187px;white-space:pre;fill:#808080;stroke:#a9a9a9;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round"
-       x="39.400867"
+       style="font-weight:bold;font-size:13.2292px;line-height:1.5;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-align:end;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-3.57187px;text-anchor:end;white-space:pre;fill:#808080;stroke:#a9a9a9;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round"
+       x="50.314949"
        y="57.627419"
        id="text20"><tspan
          sodipodi:role="line"
          id="tspan20"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2292px;font-family:linzklar_rounded;-inkscape-font-specification:linzklar_rounded;fill:#000000;stroke:none;stroke-width:0.5"
-         x="39.400867"
-         y="57.627419">ma</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:13.2292px;line-height:1.5;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-decoration-color:#000000;letter-spacing:0px;word-spacing:-3.57187px;white-space:pre;fill:#808080;stroke:#a9a9a9;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round"
-       x="39.400867"
-       y="88.826424"
-       id="text21"><tspan
-         sodipodi:role="line"
-         id="tspan21"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2292px;font-family:linzklar_rounded;-inkscape-font-specification:linzklar_rounded;fill:#000000;stroke:none;stroke-width:0.5"
-         x="39.400867"
-         y="88.826424">ta</tspan></text>
-    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2292px;font-family:linzklar_rounded;-inkscape-font-specification:linzklar_rounded;text-align:end;text-anchor:end;fill:#000000;stroke:none;stroke-width:0.5"
+         x="50.314949"
+         y="57.627419">mo</tspan></text><rect
        style="fill:url(#pattern48);fill-opacity:1;stroke:none;stroke-width:0.52;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="rect28"
        width="15.6"
        height="104"
        x="192.39999"
-       y="0" />
-    <rect
+       y="0" /><rect
        style="fill:none;stroke:#005242;stroke-width:0.52;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="rect4"
        width="31.200001"
        height="31.200001"
        x="5.1999998"
-       y="36.400002" />
-    <rect
-       style="fill:none;stroke:#005242;stroke-width:0.52;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       id="rect5"
-       width="31.200001"
-       height="31.200001"
-       x="5.1999998"
-       y="67.599998" />
-    <rect
+       y="36.400002" /><rect
        style="fill:none;stroke:#005242;stroke-width:0.52;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="rect6"
        width="31.200001"
        height="31.200001"
        x="62.400002"
-       y="5.1999998" />
-    <rect
+       y="5.1999998" /><rect
        style="fill:none;stroke:#005242;stroke-width:0.52;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="rect7"
        width="31.200001"
        height="31.200001"
        x="62.400002"
-       y="36.400002" />
-    <rect
-       style="fill:none;stroke:#005242;stroke-width:0.52;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       id="rect8"
-       width="31.200001"
-       height="31.200001"
-       x="62.400002"
-       y="67.599998" />
-    <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:13.2292px;line-height:1.5;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-decoration-color:#000000;letter-spacing:0px;word-spacing:-3.57187px;white-space:pre;fill:#808080;stroke:#a9a9a9;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round"
-       x="96.60054"
-       y="88.826424"
-       id="text9"><tspan
-         sodipodi:role="line"
-         id="tspan9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2292px;font-family:linzklar_rounded;-inkscape-font-specification:linzklar_rounded;fill:#000000;stroke:none;stroke-width:0.5"
-         x="96.60054"
-         y="88.826424">ta</tspan></text>
-    <text
+       y="36.400002" /><text
        xml:space="preserve"
        style="font-weight:bold;font-size:26.4583px;line-height:1.5;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-decoration-color:#000000;letter-spacing:0px;word-spacing:-3.57187px;white-space:pre;opacity:0.5;fill:#808080;stroke:#a9a9a9;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round"
        x="121.97823"
@@ -425,8 +303,7 @@
          id="tspan14"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.4583px;font-family:linzklar_rounded;-inkscape-font-specification:linzklar_rounded;stroke:none;stroke-width:0.5"
          x="121.97823"
-         y="34.028229">か</tspan></text>
-    <text
+         y="34.028229">の</tspan></text><text
        xml:space="preserve"
        style="font-weight:bold;font-size:26.4583px;line-height:1.5;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-decoration-color:#000000;letter-spacing:0px;word-spacing:-3.57187px;white-space:pre;opacity:0.5;fill:#808080;stroke:#a9a9a9;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round"
        x="121.986"
@@ -436,73 +313,39 @@
          id="tspan16"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.4583px;font-family:linzklar_rounded;-inkscape-font-specification:linzklar_rounded;stroke:none;stroke-width:0.5"
          x="121.986"
-         y="64.942284">な</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:26.4583px;line-height:1.5;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-decoration-color:#000000;letter-spacing:0px;word-spacing:-3.57187px;white-space:pre;opacity:0.5;fill:#808080;stroke:#a9a9a9;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round"
-       x="121.97222"
-       y="96.421097"
-       id="text22"><tspan
-         sodipodi:role="line"
-         id="tspan22"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.4583px;font-family:linzklar_rounded;-inkscape-font-specification:linzklar_rounded;stroke:none;stroke-width:0.5"
-         x="121.97222"
-         y="96.421097">た</tspan></text>
-    <text
+         y="64.942284">け</tspan></text><text
        xml:space="preserve"
        style="font-weight:bold;font-size:13.2292px;line-height:1.5;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-decoration-color:#000000;letter-spacing:0px;word-spacing:-3.57187px;white-space:pre;fill:#808080;stroke:#a9a9a9;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round"
-       x="153.80054"
+       x="152.14688"
        y="26.428377"
        id="text23"><tspan
          sodipodi:role="line"
          id="tspan23"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2292px;font-family:linzklar_rounded;-inkscape-font-specification:linzklar_rounded;fill:#000000;stroke:none;stroke-width:0.5"
-         x="153.80054"
-         y="26.428377">ka</tspan></text>
-    <text
+         x="152.14688"
+         y="26.428377">no</tspan></text><text
        xml:space="preserve"
        style="font-weight:bold;font-size:13.2292px;line-height:1.5;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-decoration-color:#000000;letter-spacing:0px;word-spacing:-3.57187px;white-space:pre;fill:#808080;stroke:#a9a9a9;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round"
-       x="152.47762"
+       x="153.77298"
        y="57.627419"
        id="text24"><tspan
          sodipodi:role="line"
          id="tspan24"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2292px;font-family:linzklar_rounded;-inkscape-font-specification:linzklar_rounded;fill:#000000;stroke:none;stroke-width:0.5"
-         x="152.47762"
-         y="57.627419">na</tspan></text>
-    <rect
+         x="153.77298"
+         y="57.627419">ke</tspan></text><rect
        style="fill:none;stroke:#005242;stroke-width:0.52;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="rect24"
        width="31.200001"
        height="31.200001"
        x="119.6"
-       y="5.1999998" />
-    <rect
+       y="5.1999998" /><rect
        style="fill:none;stroke:#005242;stroke-width:0.52;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="rect25"
        width="31.200001"
        height="31.200001"
        x="119.6"
-       y="36.400002" />
-    <rect
-       style="fill:none;stroke:#005242;stroke-width:0.52;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       id="rect26"
-       width="31.200001"
-       height="31.200001"
-       x="119.6"
-       y="67.599998" />
-    <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:13.2292px;line-height:1.5;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-decoration-color:#000000;letter-spacing:0px;word-spacing:-3.57187px;white-space:pre;fill:#808080;stroke:#a9a9a9;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round"
-       x="153.80054"
-       y="88.826424"
-       id="text26"><tspan
-         sodipodi:role="line"
-         id="tspan26"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2292px;font-family:linzklar_rounded;-inkscape-font-specification:linzklar_rounded;fill:#000000;stroke:none;stroke-width:0.5"
-         x="153.80054"
-         y="88.826424">ta</tspan></text>
-    <rect
+       y="36.400002" /><rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ea2300;stroke-width:1.04;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="rect57"
        width="22.183765"
@@ -510,14 +353,12 @@
        x="178.01622"
        y="13"
        ry="5.1999998"
-       rx="5.1999998" />
-    <circle
+       rx="5.1999998" /><circle
        style="opacity:1;fill:#ea2300;fill-opacity:1;stroke:#ffffff;stroke-width:1.04;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none"
        id="path54"
        cx="195"
        cy="13"
-       r="7.8000002" />
-    <text
+       r="7.8000002" /><text
        xml:space="preserve"
        style="font-weight:bold;font-size:10.5833px;line-height:1.5;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-decoration-color:#000000;letter-spacing:0px;word-spacing:-3.57187px;white-space:pre;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.52;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none"
        x="189.72488"
@@ -527,8 +368,7 @@
          id="tspan57"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:linzklar_rounded;-inkscape-font-specification:linzklar_rounded;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.52;stroke-dasharray:none"
          x="189.72488"
-         y="18.282095">三</tspan></text>
-    <text
+         y="18.282095">四</tspan></text><text
        xml:space="preserve"
        style="font-weight:bold;font-size:8.46667px;line-height:1;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;white-space:pre;fill:#808080;stroke:#a9a9a9;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round"
        x="193.99413"
@@ -538,13 +378,12 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1;font-family:linzklar_rounded;-inkscape-font-specification:linzklar_rounded;word-spacing:0px;writing-mode:tb-rl;fill:#000000;stroke:none;stroke-width:0.5;stroke-opacity:1"
          x="193.99413"
          y="21.188494"
-         id="tspan59">ねまにき  かし</tspan><tspan
+         id="tspan59">うもそのき　かし</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1;font-family:linzklar_rounded;-inkscape-font-specification:linzklar_rounded;word-spacing:0px;writing-mode:tb-rl;fill:#000000;stroke:none;stroke-width:0.5;stroke-opacity:1"
          x="184.62715"
          y="21.188494"
-         id="tspan60" /></text>
-    <text
+         id="tspan60" /></text><text
        xml:space="preserve"
        style="font-weight:bold;font-size:2.64583px;line-height:1;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;white-space:pre;fill:#808080;stroke:#a9a9a9;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round"
        x="190.10387"
@@ -559,13 +398,12 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;line-height:1;font-family:linzklar_rounded;-inkscape-font-specification:linzklar_rounded;word-spacing:0px;writing-mode:tb-rl;fill:#000000;stroke:none;stroke-width:0.5;stroke-opacity:1"
          x="185.29109"
          y="31.962021"
-         id="tspan64">軸声やあうぬな字き筆即</tspan><tspan
+         id="tspan64">う声唯うぬな形や</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;line-height:1;font-family:linzklar_rounded;-inkscape-font-specification:linzklar_rounded;word-spacing:0px;writing-mode:tb-rl;fill:#000000;stroke:none;stroke-width:0.5;stroke-opacity:1"
          x="182.08257"
          y="31.962021"
-         id="tspan63">子や皇字之軸形き学能す</tspan></text>
-    <rect
+         id="tspan63">軸声之う処同無噫</tspan></text><rect
        style="opacity:1;fill:#ea2300;fill-opacity:1;stroke:none;stroke-width:0.52;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="rect64"
        width="5.2000003"
@@ -573,8 +411,7 @@
        x="181.08867"
        y="15.180458"
        ry="2.5999999"
-       rx="2.5999999" />
-    <text
+       rx="2.5999999" /><text
        xml:space="preserve"
        style="font-weight:bold;font-size:3.175px;line-height:1;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;white-space:pre;fill:#808080;stroke:#ffffff;stroke-width:0.13;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none"
        x="183.69092"
@@ -589,6 +426,24 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1;font-family:linzklar_rounded;-inkscape-font-specification:linzklar_rounded;word-spacing:0px;writing-mode:tb-rl;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.13;stroke-dasharray:none;stroke-opacity:1"
          x="180.1783"
          y="16.238731"
-         id="tspan67" /></text>
-  </g>
-</svg>
+         id="tspan67" /></text><text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:26.4583px;line-height:1.5;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-decoration-color:#000000;letter-spacing:0px;word-spacing:-3.57187px;white-space:pre;opacity:1;fill:#000000;stroke:#a9a9a9;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round"
+       x="117.17141"
+       y="93.921097"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.4583px;font-family:linzklar_rounded;-inkscape-font-specification:linzklar_rounded;fill:#000000;stroke:none;stroke-width:0.5"
+         x="117.17141"
+         y="93.921097">📦</tspan></text><text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:26.4583px;line-height:1.5;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-decoration-color:#000000;letter-spacing:0px;word-spacing:-3.57187px;white-space:pre;opacity:1;fill:#000000;stroke:#a9a9a9;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round"
+       x="59.825325"
+       y="93.921097"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.4583px;font-family:linzklar_rounded;-inkscape-font-specification:linzklar_rounded;fill:#000000;stroke:none;stroke-width:0.5"
+         x="59.825325"
+         y="93.921097">🌸</tspan></text></g></svg>
