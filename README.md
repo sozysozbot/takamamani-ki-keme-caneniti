@@ -1,17 +1,8 @@
-## template
+# 【たかままにき　けめ　さねにち】【皇字き軟め学ち】
 
-### 3分割テンプレート
+## plan 
 
-![](./div-by-3.png)
-
-![](./div-by-3.svg)
-
-
-### 4分割テンプレート
-
-![](./div-by-4.png)
-
-![](./div-by-4.svg)
+https://docs.google.com/document/d/1ZD2Abom1UyhInP_IYlG8g4saRlS9eHwruco8DixgwkE
 
 
 ## content
