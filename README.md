@@ -17,7 +17,7 @@ https://docs.google.com/document/d/1ZD2Abom1UyhInP_IYlG8g4saRlS9eHwruco8DixgwkE
 かき  ちとし
 【かき貝し】
 
-唯一形き貝即
+一形唯き貝即
 多まき筆能す
 ```
 
