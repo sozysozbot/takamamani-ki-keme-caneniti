@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="208mm"
-   height="104mm"
-   viewBox="0 0 208 104"
+   width="214mm"
+   height="110mm"
+   viewBox="-3 -3 214 110"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
@@ -28,42 +28,42 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.96088504"
-     inkscape:cx="554.17659"
+     inkscape:cx="554.1766"
      inkscape:cy="311.69181"
      inkscape:window-width="1512"
      inkscape:window-height="848"
      inkscape:window-x="0"
-     inkscape:window-y="33"
+     inkscape:window-y="30"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
      inkscape:export-bgcolor="#ffffffff">
     <sodipodi:guide
-       position="5.1999999,98.800001"
+       position="5.1999998,98.8"
        orientation="117.92127,0"
        id="guide27"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="36.400002,98.800001"
+       position="36.400002,98.8"
        orientation="0,-117.92127"
        id="guide30"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="5.1999999,36.400002"
+       position="5.1999998,36.400002"
        orientation="117.92128,0"
        id="guide31"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="5.1999999,5.199997"
+       position="5.1999998,5.1999969"
        orientation="0,117.92127"
        id="guide32"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="98.800004,98.800001"
+       position="98.800003,98.8"
        orientation="0,-117.92128"
        id="guide38"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="161.2,98.800001"
+       position="161.2,98.8"
        orientation="0,-117.92125"
        id="guide42"
        inkscape:locked="false" />
@@ -108,27 +108,27 @@
        id="guide57"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="5.1999999,98.800001"
+       position="5.1999998,98.8"
        orientation="88.44094,0"
        id="guide6"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="5.1999999,75.400002"
+       position="5.1999998,75.400001"
        orientation="0,88.44094"
        id="guide7"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="28.599999,75.400002"
+       position="28.599999,75.400001"
        orientation="-88.44094,0"
        id="guide8"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="5.1999999,52.000001"
+       position="5.1999998,52"
        orientation="88.440951,0"
        id="guide10"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="5.1999999,28.599999"
+       position="5.1999998,28.599999"
        orientation="0,88.44094"
        id="guide11"
        inkscape:locked="false" />
@@ -138,12 +138,12 @@
        id="guide12"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="28.599999,52.000001"
+       position="28.599999,52"
        orientation="0,-88.44094"
        id="guide13"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="52.000001,75.400002"
+       position="52,75.400001"
        orientation="0,88.440951"
        id="guide34"
        inkscape:locked="false" />
@@ -238,15 +238,15 @@
        id="rect15"
        width="23.4"
        height="23.4"
-       x="5.2"
-       y="5.2" />
+       x="5.1999998"
+       y="5.1999998" />
     <rect
        style="fill:url(#pattern48);fill-opacity:1;stroke:none;stroke-width:0.52;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="rect28"
-       width="15.6"
-       height="104"
-       x="192.39999"
-       y="0" />
+       width="18.600006"
+       height="109.99999"
+       x="192.40001"
+       y="-2.9999986" />
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:9.90299px;line-height:1.5;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-decoration-color:#000000;letter-spacing:0px;word-spacing:-2.6738px;white-space:pre;fill:#808080;stroke:#a9a9a9;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round"
@@ -282,7 +282,7 @@
          id="tspan9"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.90299px;font-family:linzklar_rounded;-inkscape-font-specification:linzklar_rounded;fill:#000000;stroke:none;stroke-width:0.5"
          x="31.061815"
-         y="68.05999" /></text>
+         y="78.332664" /></text>
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ea2300;stroke-width:1.04;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="rect57"
@@ -442,8 +442,8 @@
        id="rect13"
        width="23.4"
        height="23.4"
-       x="5.2"
-       y="5.2" />
+       x="5.1999998"
+       y="5.1999998" />
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:19.8438px;line-height:1.5;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-decoration-color:#000000;letter-spacing:0px;word-spacing:-3.57187px;white-space:pre;opacity:0.5;fill:#808080;stroke:#a9a9a9;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round"
@@ -630,7 +630,7 @@
        id="rect39"
        width="23.4"
        height="23.4"
-       x="93.6"
+       x="93.599998"
        y="28.6" />
     <rect
        style="fill:none;stroke:#005242;stroke-width:0.52;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
