@@ -1,5 +1,10 @@
 # 【たかままにき　けめ　さねにち】【皇字き軟め学ち】
 
+## fonts
+
+- cumamuka https://github.com/yasusho/linmarn_font_project/tree/master/fonts/cumamuka
+- linzklar_rounded https://github.com/yasusho/linmarn_font_project/tree/master/fonts/rounded
+
 ## plan 
 
 https://docs.google.com/document/d/1ZD2Abom1UyhInP_IYlG8g4saRlS9eHwruco8DixgwkE
